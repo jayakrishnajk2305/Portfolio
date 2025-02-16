@@ -1,7 +1,3 @@
-Here’s a **catchy and well-structured LinkedIn bio** that highlights your expertise in **Data Science, AI/ML, Software Engineering, and NLP**, while making it engaging for recruiters and connections:  
-
----
-
 ## 🚀 **Jaya Krishna Sangoju** | Data Scientist | AI & NLP Engineer | Software Developer  
 📍 **Machine Learning | Deep Learning | NLP | Cybersecurity | Web & App Development | AI-Driven Solutions**  
 
