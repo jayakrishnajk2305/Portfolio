@@ -1,5 +1,4 @@
 ## **Jaya Krishna Sangoju** | Data Scientist | AI & NLP Engineer | Software Developer  
-📍 **Machine Learning | Deep Learning | NLP | Cybersecurity | Web & App Development | AI-Driven Solutions**  
 
 ### 🔹 **About Me**  
 I'm a **Data Scientist and Software Engineer** with **4+ years of experience** in **AI, NLP, deep learning, and big data engineering**. Passionate about **transforming raw data into actionable insights**, I specialize in **machine learning model optimization, scalable AI solutions, and cloud-based automation**. My expertise spans across **cutting-edge Transformer models (BERT, GPT, ViT)** and end-to-end **MLOps pipelines** for deploying AI-driven solutions efficiently.  
