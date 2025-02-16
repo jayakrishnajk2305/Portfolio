@@ -1,4 +1,4 @@
-## 🚀 **Jaya Krishna Sangoju** | Data Scientist | AI & NLP Engineer | Software Developer  
+## **Jaya Krishna Sangoju** | Data Scientist | AI & NLP Engineer | Software Developer  
 📍 **Machine Learning | Deep Learning | NLP | Cybersecurity | Web & App Development | AI-Driven Solutions**  
 
 ### 🔹 **About Me**  
