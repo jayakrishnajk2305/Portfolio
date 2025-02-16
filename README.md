@@ -1,56 +1,81 @@
+Here’s a **catchy and well-structured LinkedIn bio** that highlights your expertise in **Data Science, AI/ML, Software Engineering, and NLP**, while making it engaging for recruiters and connections:  
 
-# Data Scientist
+---
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## 🚀 **Jaya Krishna Sangoju** | Data Scientist | AI & NLP Engineer | Software Developer  
+📍 **Machine Learning | Deep Learning | NLP | Cybersecurity | Web & App Development | AI-Driven Solutions**  
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+### 🔹 **About Me**  
+I'm a **Data Scientist and Software Engineer** with **4+ years of experience** in **AI, NLP, deep learning, and big data engineering**. Passionate about **transforming raw data into actionable insights**, I specialize in **machine learning model optimization, scalable AI solutions, and cloud-based automation**. My expertise spans across **cutting-edge Transformer models (BERT, GPT, ViT)** and end-to-end **MLOps pipelines** for deploying AI-driven solutions efficiently.  
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### 🔍 **What I Do Best**  
+✅ **Develop NLP & Deep Learning models** for text classification, chatbots, and sentiment analysis  
+✅ **Design CI/CD pipelines** to deploy ML models with **AWS, GCP, and Azure**  
+✅ **Optimize ML algorithms** with **TensorFlow, PyTorch, and Scikit-learn**  
+✅ **Build secure & scalable full-stack applications** integrated with AI-driven insights  
+✅ **Automate and improve model performance** with **MLOps strategies & cloud services**  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+---
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## 📚 **Education**  
+🎓 **Master’s in Information Technology** | Saint Peter’s University _(2023 – 2025)_  
+🎓 **Bachelor’s in Information Technology** | Jawaharlal Nehru Technological University Kakinada _(2018 – 2022)_  
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+---
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## 💼 **Professional Experience**  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### 🚀 **Graduate Research Assistant** | Saint Peter’s University _(Feb 2024 – Present)_  
+🔹 Led a **team of 5 researchers** to enhance **NLP models and data processing pipelines**, improving model accuracy by **20%**  
+🔹 Designed a **high-performance NLP framework** using **BERT embeddings & Temporal Convolutional Networks (TCNs)**, achieving **95% accuracy**  
+🔹 Spearheaded a **sentiment analysis project on COVID-related tweets**, optimizing model performance using **hyperparameter tuning**  
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### 💻 **Software Engineer** | Tata Elxsi _(Jun 2022 – Jul 2023)_  
+🔹 Developed **CI/CD pipelines** with **Jenkins & Python**, reducing manual deployment efforts by **40%**  
+🔹 Implemented **automated logging & monitoring solutions**, improving debugging efficiency and reducing system downtime  
+🔹 Designed **Python-based data processing pipelines**, handling **large-scale datasets** for real-time ML model training  
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### 🛠️ **Software Engineer & Tester (Intern)** | AdvanSoft _(Jun 2020 – May 2022)_  
+🔹 Conducted **manual testing & UI/UX analysis** for **enterprise web applications**  
+🔹 Provided recommendations for **website structure, security enhancements, and performance optimizations**  
+🔹 Collaborated with developers to **identify & document bugs**, ensuring continuous software improvements  
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+---
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## 💡 **Key Projects & Achievements**  
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### 🔹 **[BERT-Based COVID-19 Tweet Classification](https://github.com/jayakrishnajk2305/BERT-COVID-Tweet-Classification.git)**  
+✔ Designed a **high-performance NLP model** using **BERT embeddings** for **COVID-19 tweet classification**  
+✔ Achieved **94.18% accuracy** in classifying **75K+ tweets**, providing real-time **public health insights**  
+✔ Developed a **tweet categorization algorithm**, improving **classification performance** for key **COVID-19 topics**  
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### 🔹 **[AI-Powered Machine Learning Chatbot](https://github.com/jayakrishnajk2305/AI-Powered-Machine-Learning-Chatbot.git)**  
+✔ Built an **AI chatbot** using **advanced deep learning models (T5, Transformer-based NLP)**, achieving **85% accuracy**  
+✔ Developed **15K+ labeled training datasets**, enhancing chatbot’s contextual understanding and response accuracy  
+✔ Integrated **ML techniques & neural networks** to optimize **classification tasks & dynamic adaptability**  
+
+### 🔹 **[Anime Character Classification with Vision Transformer (ViT)](https://github.com/jayakrishnajk2305/Dragon-Ball-Z-Character-Classification-with-Deep-Learning.git)**  
+✔ Implemented a **Vision Transformer (ViT) model** from scratch using **PyTorch** for **anime character classification**  
+✔ **Fine-tuned a ViT model on custom datasets**, achieving **85% test accuracy** with **optimized loss of 0.4**  
+✔ Applied **data augmentation & transfer learning techniques**, improving model **generalization & robustness**  
+
+---
+
+## 🛠️ **Technical Skills**  
+🔹 **Programming & Frameworks:** Python, SQL, JavaScript, Bash, React.js, Node.js  
+🔹 **AI & ML Tools:** TensorFlow, PyTorch, OpenCV, NLTK, SpaCy, Scikit-learn  
+🔹 **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions  
+🔹 **Big Data & Visualization:** Tableau, Power BI, Hadoop, Spark, Snowflake  
+🔹 **Cybersecurity & MLOps:** Secure DevOps, Model Deployment, CI/CD Pipelines  
+
+---
+
+## 📣 **Let’s Connect!**  
+🚀 I’m **seeking Data Science, AI/ML, and Software Engineering roles** in the US! Looking for an expert who can **develop AI-powered solutions, optimize ML models, and deploy scalable applications**? Let’s chat!  
+
+📩 **Email:** jaya2305krishna@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/jaya23krishna](https://linkedin.com/in/jaya23krishna)  
+🌟 **GitHub:** [github.com/jaya23krishna](https://github.com/jaya23krishna)  
+
+💡 _"Empowering businesses with AI-driven solutions & data-driven insights!"_ 🚀  
+
