@@ -25,16 +25,6 @@ I'm a **Data Scientist and Software Engineer** with **4+ years of experience** i
 🔹 Designed a **high-performance NLP framework** using **BERT embeddings & Temporal Convolutional Networks (TCNs)**, achieving **95% accuracy**  
 🔹 Spearheaded a **sentiment analysis project on COVID-related tweets**, optimizing model performance using **hyperparameter tuning**  
 
-### 💻 **Software Engineer** | Tata Elxsi _(Jun 2022 – Jul 2023)_  
-🔹 Developed **CI/CD pipelines** with **Jenkins & Python**, reducing manual deployment efforts by **40%**  
-🔹 Implemented **automated logging & monitoring solutions**, improving debugging efficiency and reducing system downtime  
-🔹 Designed **Python-based data processing pipelines**, handling **large-scale datasets** for real-time ML model training  
-
-### 🛠️ **Software Engineer & Tester (Intern)** | AdvanSoft _(Jun 2020 – May 2022)_  
-🔹 Conducted **manual testing & UI/UX analysis** for **enterprise web applications**  
-🔹 Provided recommendations for **website structure, security enhancements, and performance optimizations**  
-🔹 Collaborated with developers to **identify & document bugs**, ensuring continuous software improvements  
-
 ---
 
 ## 💡 **Key Projects & Achievements**  
